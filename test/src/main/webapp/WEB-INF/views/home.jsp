@@ -6,8 +6,7 @@
 	</head>
 	<body>
 		<h1>
-			GitHub Test! 
-			TEST gogo! 
+			GitHub Test!  
 		</h1>
 	</body>
 </html>
