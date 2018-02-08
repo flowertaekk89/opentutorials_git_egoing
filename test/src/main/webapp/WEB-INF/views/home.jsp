@@ -11,6 +11,7 @@
 		<ul>
 			<li>저장소</li>
 			<li>버전</li>
+			<li>일상업무</li>
 		</ul>
 	</body>
 </html>
